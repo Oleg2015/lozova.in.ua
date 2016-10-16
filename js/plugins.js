@@ -1,0 +1,3 @@
+$(function function_name(argument) {
+	console.log('in plugins.js!');// body...
+});
